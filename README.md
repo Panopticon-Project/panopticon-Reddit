@@ -1,5 +1,4 @@
-# panopticon-APT37
+# panopticon-Reddit
 
-https://www.securityweek.com/north-korea-cyber-threat-more-aggressive-china-us-firm
+https://www.wired.com/story/reddit-russian-propaganda/?CNDID=50740756&mbid=nl_031018_daily_list1_p1
 
-https://www.wired.com/story/north-korean-hacker-group-apt37/?CNDID=50740756&mbid=nl_022018_daily_list3_p1
